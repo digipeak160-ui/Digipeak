@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digipeak.site/sitemap.xml
